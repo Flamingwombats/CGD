@@ -1,0 +1,1 @@
+This shall hold some website code for a simple webcomic blog. This will branch out to become more user-oriented and allow pages for others to host webcomics on.
